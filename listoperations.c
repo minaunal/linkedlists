@@ -1,6 +1,4 @@
 //Mina Ünal
-//201180042
-
 
 #include <stdio.h>
 #include <stdlib.h>
